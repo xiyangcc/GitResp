@@ -12,4 +12,4 @@ hello xiyang ,welcome to git build new file！hot-fix修改
 hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
-hello xiyang ,welcome to git build new file！ master 修改！修改2
+hello xiyang ,welcome to git build new file！host-fix修改2
