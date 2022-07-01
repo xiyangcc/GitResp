@@ -8,7 +8,7 @@ hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
-hello xiyang ,welcome to git build new file！
+hello xiyang ,welcome to git build new file！hot-fix修改
 hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
 hello xiyang ,welcome to git build new file！
